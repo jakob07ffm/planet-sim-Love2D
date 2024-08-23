@@ -10,3 +10,5 @@ This is a simple solar system simulation created using Love2D. The simulation fe
 - Install lua and Love2D
 - Download the files of this repo
 - open main.lua in an editor and run it
+
+![](planet_screenshot.JPG)
